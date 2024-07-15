@@ -21,6 +21,5 @@ public class LargestinList {
 
   System.out.println{"The largest number in the list is: " + largestNumber);
   Scanner.close();
-                    }
   }
 }
